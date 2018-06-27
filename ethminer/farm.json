@@ -1,0 +1,7 @@
+[
+	{ "name": "vns_getWork", "params": [], "order": [], "returns": []},
+	{ "name": "vns_submitWork", "params": ["", "", ""], "order": [], "returns": true},
+	{ "name": "vns_submitHashrate", "params": ["", ""], "order": [], "returns": true},
+	{ "name": "vns_awaitNewWork", "params": [], "order": [], "returns": []},
+	{ "name": "vns_progress", "params": [], "order": [], "returns": true}
+]
